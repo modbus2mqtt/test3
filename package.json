@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "test1": "file:../test1",
     "test2": "file:../test2"
   }
 }
