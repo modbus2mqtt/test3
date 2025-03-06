@@ -7,6 +7,8 @@
     "test": "test"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "test2": "file:../test2"
+  }
 }
-
