@@ -1,6 +1,6 @@
 {
   "name": "@modbus2mqtt/test3",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "changes in modbus2mqtt",
   "main": "index.js",
   "scripts": {
